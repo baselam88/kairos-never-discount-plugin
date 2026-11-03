@@ -1,0 +1,17 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "author": {
+    "name": "KAIROS AI Systems"
+  },
+  "description": "Routes every price pushback to a legal move: scope downsell, payment plan (same total), or back to objection handling when the real gap is belief.",
+  "keywords": [
+    "discount",
+    "kairos",
+    "never",
+    "small business"
+  ],
+  "license": "MIT",
+  "name": "kairos-never-discount",
+  "repository": "https://github.com/baselam88/kairos-never-discount-plugin",
+  "version": "0.1.0"
+}
